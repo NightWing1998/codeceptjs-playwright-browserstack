@@ -78,9 +78,9 @@ This repo demonstrates how to run multiple tests in parallel across different br
 
 <b>To run the tests:</b>
 
-    ```sh
-    bin/parallel.js
-    ```
+```sh
+bin/parallel.js
+```
 
 ## Configuring remote browser
 
